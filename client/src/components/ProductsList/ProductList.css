@@ -1,0 +1,7 @@
+.products-list{
+    display: grid;
+    grid-template-columns: 17rem 17rem 17rem;
+    grid-template-rows: 17rem;
+    align-items: baseline;
+    justify-content: center;
+}
